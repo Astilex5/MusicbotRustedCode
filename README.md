@@ -16,10 +16,12 @@ We are looking to convert the code not rewrite the darned thing.
 FAQs
 
 What is the Lang?
---Rustc
+Rustc
+
 Is it GPL?
---No it is MIT since the last owner did not openly declare GPL or such others.
+No it is MIT since the last owner did not openly declare GPL or such others.
 (This is to create a protective Barrier in case if we cannot support cross-platform.)
+
 Then how can I make my own bot?
 As I said. just-some-bots did not declare GPL or MIT so their code is free game. So is my code you can't share my code however.
 
